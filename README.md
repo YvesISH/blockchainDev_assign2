@@ -8,10 +8,10 @@ Link tasks using their hashes to create a blockchain-like chain of tasks.
 Menu-driven interface for ease of use.
 
 ### Compilation
-Ensure you have OpenSSL installed, then compile the program with:
-gcc -o todo_list todo_list.c -lssl -lcrypto
+##### Ensure you have OpenSSL installed, then compile the program with:
+##### gcc -o todo_list todo_list.c -lssl -lcrypto
 
 
 ### Running the Program
-Execute the program:
-./todo_list
+##### Execute the program:
+##### ./todo_list
